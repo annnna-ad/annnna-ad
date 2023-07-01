@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @annnna-ad
-- 👀 I’m interested in 
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in software development
+- 🌱 I’m currently learning about security and privacy
 
 
 
